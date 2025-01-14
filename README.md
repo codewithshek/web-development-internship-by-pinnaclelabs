@@ -6,7 +6,9 @@ Here is the formatted text for your GitHub README file:
 This repository contains the projects I completed during my Web Development Internship at Pinnacle Labs IT Solutions. The internship provided me with hands-on experience in web development, focusing on both frontend and backend technologies. Below are the details of the tasks I completed.
 
 ## **Task 1: Personal Portfolio Website**
-<video controls src="Activity - D ABHISHEK YADAV_2.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/cd241b64-98b6-4598-8057-68d98a556209
+
 ### **Description**
 For the first task, I built a Personal Portfolio Website. This beginner-level project involved HTML, CSS, and a bit of JavaScript to showcase my projects and skills.
 
@@ -33,9 +35,10 @@ The second task involved creating a comprehensive dining platform with interacti
 - Enhanced customer dining experiences through intuitive navigation and user-friendly features.
 
 ## **Task 3: E-commerce Website Development**
-<video controls>
-  <source src="Activity - D ABHISHEK YADAV_2.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/30a27e83-64d1-4a34-90c9-e797aa66244a
+
 ### **Description**
 The third task was to develop an E-commerce Website. This project showcases a comprehensive online shopping platform with interactive product listings, smart recommendations, and a seamless shopping cart experience.
 
