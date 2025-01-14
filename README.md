@@ -33,7 +33,9 @@ The second task involved creating a comprehensive dining platform with interacti
 - Enhanced customer dining experiences through intuitive navigation and user-friendly features.
 
 ## **Task 3: E-commerce Website Development**
-<video controls src="Activity - D ABHISHEK YADAV.mp4" title="Title"></video>
+<video controls>
+  <source src="Activity - D ABHISHEK YADAV_2.mp4" type="video/mp4">
+</video>
 ### **Description**
 The third task was to develop an E-commerce Website. This project showcases a comprehensive online shopping platform with interactive product listings, smart recommendations, and a seamless shopping cart experience.
 
