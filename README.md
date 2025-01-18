@@ -3,7 +3,7 @@ Here is the formatted text for your GitHub README file:
 # **Pinnacle Labs Web Development Internship**
 
 ## **Overview**
- 
+  
  
 ## **Task 1: Personal Portfolio Website**
 
