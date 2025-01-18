@@ -3,7 +3,8 @@ Here is the formatted text for your GitHub README file:
 # **Pinnacle Labs Web Development Internship**
 
 ## **Overview**
-    
+
+This repository contains the projects I completed during my Web Development Internship at Pinnacle Labs IT Solutions. The internship provided me with hands-on experience in web development, focusing on both frontend and backend technologies. Below are the details of the tasks I completed.
  
 ## **Task 1: Personal Portfolio Website**
 
