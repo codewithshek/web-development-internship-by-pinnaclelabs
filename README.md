@@ -5,7 +5,6 @@ Here is the formatted text for your GitHub README file:
 ## **Overview**
 
 
-
 ## **Task 1: Personal Portfolio Website**
 
 https://github.com/user-attachments/assets/cd241b64-98b6-4598-8057-68d98a556209
