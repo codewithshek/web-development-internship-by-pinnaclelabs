@@ -2,6 +2,109 @@ Here is the formatted text for your GitHub README file:
 
 # **Pinnacle Labs Web Development Internship**
 
+# Directory structure:
+└── github.com/codewithshek/web-development-internship-by-pinnaclelabs/
+
+    ├── README.md
+    ├── TASK-1/
+    │   ├── eslint.config.js
+    │   ├── index.html
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   ├── postcss.config.js
+    │   ├── tailwind.config.js
+    │   ├── tsconfig.app.json
+    │   ├── tsconfig.json
+    │   ├── tsconfig.node.json
+    │   ├── vite.config.ts
+    │   ├── .gitignore
+    │   └── src/
+    │       ├── App.tsx
+    │       ├── index.css
+    │       ├── main.tsx
+    │       ├── vite-env.d.ts
+    │       └── components/
+    │           ├── About.tsx
+    │           ├── Footer.tsx
+    │           ├── Hero.tsx
+    │           └── Projects.tsx
+    ├── TASK-2/
+    │   ├── eslint.config.js
+    │   ├── index.html
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   ├── postcss.config.js
+    │   ├── tailwind.config.js
+    │   ├── tsconfig.app.json
+    │   ├── tsconfig.json
+    │   ├── tsconfig.node.json
+    │   ├── vite.config.ts
+    │   ├── .gitignore
+    │   └── src/
+    │       ├── App.tsx
+    │       ├── index.css
+    │       ├── main.tsx
+    │       ├── vite-env.d.ts
+    │       ├── components/
+    │       │   ├── About.tsx
+    │       │   ├── Contact.tsx
+    │       │   ├── Events.tsx
+    │       │   ├── Hero.tsx
+    │       │   ├── LoadingSpinner.tsx
+    │       │   ├── MenuCard.tsx
+    │       │   ├── MenuSection.tsx
+    │       │   ├── Navbar.tsx
+    │       │   ├── buttons/
+    │       │   │   ├── PrimaryButton.tsx
+    │       │   │   └── SecondaryButton.tsx
+    │       │   └── modals/
+    │       │       ├── Modal.tsx
+    │       │       ├── OrderConfirmationModal.tsx
+    │       │       └── ReservationModal.tsx
+    │       ├── data/
+    │       │   └── menuItems.ts
+    │       ├── pages/
+    │       │   ├── DishDetailPage.tsx
+    │       │   └── HomePage.tsx
+    │       └── utils/
+    │           └── scroll.ts
+    └── TASK-3/
+        ├── eslint.config.js
+        ├── index.html
+        ├── package-lock.json
+        ├── package.json
+        ├── postcss.config.js
+        ├── tailwind.config.js
+        ├── tsconfig.app.json
+        ├── tsconfig.json
+        ├── tsconfig.node.json
+        ├── vite.config.ts
+        ├── .gitignore
+        └── src/
+            ├── App.tsx
+            ├── index.css
+            ├── main.tsx
+            ├── vite-env.d.ts
+            ├── components/
+            │   ├── Cart.tsx
+            │   ├── CategoryFilter.tsx
+            │   ├── Home.tsx
+            │   ├── Navbar.tsx
+            │   ├── ProductCard.tsx
+            │   ├── Products.tsx
+            │   └── cart/
+            │       ├── CartItem.tsx
+            │       └── CartSummary.tsx
+            ├── context/
+            │   └── CartContext.tsx
+            ├── data/
+            │   └── products.ts
+            ├── types/
+            │   └── index.ts
+            └── utils/
+                └── payment.ts
+
+
 ## **Overview**
 
 This repository contains the projects I completed during my Web Development Internship at Pinnacle Labs IT Solutions. The internship provided me with hands-on experience in web development, focusing on both frontend and backend technologies. Below are the details of the tasks I completed.
